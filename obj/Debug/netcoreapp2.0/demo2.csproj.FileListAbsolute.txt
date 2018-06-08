@@ -1,0 +1,11 @@
+/Users/reubenverdusco/Desktop/demo2/bin/Debug/netcoreapp2.0/demo2.deps.json
+/Users/reubenverdusco/Desktop/demo2/bin/Debug/netcoreapp2.0/demo2.runtimeconfig.json
+/Users/reubenverdusco/Desktop/demo2/bin/Debug/netcoreapp2.0/demo2.runtimeconfig.dev.json
+/Users/reubenverdusco/Desktop/demo2/bin/Debug/netcoreapp2.0/demo2.dll
+/Users/reubenverdusco/Desktop/demo2/bin/Debug/netcoreapp2.0/demo2.pdb
+/Users/reubenverdusco/Desktop/demo2/obj/Debug/netcoreapp2.0/demo2.csprojResolveAssemblyReference.cache
+/Users/reubenverdusco/Desktop/demo2/obj/Debug/netcoreapp2.0/demo2.csproj.CoreCompileInputs.cache
+/Users/reubenverdusco/Desktop/demo2/obj/Debug/netcoreapp2.0/demo2.AssemblyInfoInputs.cache
+/Users/reubenverdusco/Desktop/demo2/obj/Debug/netcoreapp2.0/demo2.AssemblyInfo.cs
+/Users/reubenverdusco/Desktop/demo2/obj/Debug/netcoreapp2.0/demo2.dll
+/Users/reubenverdusco/Desktop/demo2/obj/Debug/netcoreapp2.0/demo2.pdb
