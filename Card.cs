@@ -38,15 +38,27 @@ namespace demo2
             string[] demosuits =  {"Clubs", "Spades", "Hearts", "Diamonds"};
             string[] demostringVals = {"Ace", "2", "3", "4", "5", "6", "7", "8", "9", "10", "Jack", "Queen", "King"};
             
-            for(int x = 0 ; x < demosuits.Length; x++)
+            int i = 1;
+            foreach(string suit in demosuits)
             {
-                for(int i = 0; i< demostringVals.Length; i++)
+                foreach(string val in demostringVals)
                 {
-                    Card newcard = new Card(demostringVals[i], demosuits[x], i);
+                    Card newcard = new Card(val, suit, i++);
                     fakedeck.Add(newcard);
-                    // System.Console.WriteLine("Suit: "+newcard.suit+", Val: "+newcard.val);  
-                }             
+                    System.Console.WriteLine("Suit: "+newcard.suit+", Val: "+newcard.val);
+                }
+                i = 1;
             }
+
+            // for(int x = 0 ; x < demosuits.Length; x++)
+            // {
+            //     for(int i = 0; i< demostringVals.Length; i++)
+            //     {
+            //         Card newcard = new Card(demostringVals[i], demosuits[x], i);
+            //         fakedeck.Add(newcard);
+            //         // System.Console.WriteLine("Suit: "+newcard.suit+", Val: "+newcard.val);  
+            //     }             
+            // }
             cards = fakedeck;
        }
 
